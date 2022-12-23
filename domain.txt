@@ -1,0 +1,1 @@
+itsm-prd.itmx.co.th , itsm-prd-smartit.itmx.co.th , itsm-prd-sr.itmx.co.th , itsm-prd-is.itmx.co.th , itsm-prd-restapi.itmx.co.th , itsm-prd-atws.itmx.co.th , itsm-prd-dwp.itmx.co.th , itsm-prd-dwpcatalog.itmx.co.th , itsm-prd-vchat.itmx.co.th , itsm-prd-chat.itmx.co.th , itsm-prd-supportassisttool.itmx.co.th ,
