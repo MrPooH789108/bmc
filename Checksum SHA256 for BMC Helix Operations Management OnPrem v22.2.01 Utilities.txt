@@ -1,0 +1,2 @@
+Checksum SHA256 for BMC Helix Operations Management OnPrem v22.2.01 Utilities
+973b200c29ac48f3666343ddb2f3b7f8a57029df05583e6aac5d6e655b8f2e88  tctl-101.zip
